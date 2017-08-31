@@ -4,4 +4,5 @@ WX-Statistician
 
 How to use it?
 -------
-    Scan QR code with WeChat and allow computers to log in,then a statistical chart of your friends will display on desktop
+Scan QR code with WeChat and allow computers to log in,then a statistical chart of your<br>
+friends will display on desktop
